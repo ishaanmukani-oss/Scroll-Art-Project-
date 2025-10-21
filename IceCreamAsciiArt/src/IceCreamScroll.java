@@ -3,8 +3,7 @@ import java.util.Random;
 public class IceCreamScroll {
     static final int width = getTerminalWidth();
     static final int iceHeight = 6;
-    static final int iceWidth = 8; // max width of your ASCII art
-
+    static final int iceWidth = 8;
     public static void main(String[] args) throws Exception {
         char[][] iceCream = getIceCream();
         Random rand = new Random();
