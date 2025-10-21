@@ -10,8 +10,8 @@ public class IceCreamScroll {
 
         
         
-        while (true) {
-       
+        while (true) { 
+    
             int spaces = rand.nextInt(width - iceWidth);
         
             for (int y = 0; y < iceHeight; y++) {
@@ -40,7 +40,7 @@ public class IceCreamScroll {
             }
         }
         //Actual Ice Cream Art
-        img[0][3] = '0';
+        img[0][4] = '0';
         img[1][1] = '(';
         img[1][6] = ')';
         img[2][0] = '(';
