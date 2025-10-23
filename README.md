@@ -8,8 +8,9 @@ I began by first trying to understand Ms. Feng's scroll Art since I thought it w
 Ice Cream Scroll Art:
 While messing around with my keyboard keys on google doc I was able to create my own Ascii Art of an IceCream Cone.      
 
-        0
-    (      )
+     
+0
+   (        )
    ( _ _ _  )
     \      /
      \    /
